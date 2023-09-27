@@ -1,4 +1,4 @@
-# Hi there, I'm JusmanEfendy 👋
+# Hi there, I'm JusmanEfendy👋  - FullStack Developer
 
 ### and here is my stats
 <p align="center"><img src="https://www.codewars.com/users/JusmanEfendy/badges/large"/><br /><br />
